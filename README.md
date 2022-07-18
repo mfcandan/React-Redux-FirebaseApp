@@ -1,4 +1,4 @@
-# React, Redux Toolkit Basic Shopcart App
+# React, Firebase Project Management App 
 This is react + firebase project blog app
 
 In the project directory, you can run:
