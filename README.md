@@ -1,5 +1,5 @@
-# React, Firebase Project Management App 
-This is react + firebase project blog app
+# React, Redux, Firebase Project Management App 
+This is react + redux + firebase project blog app
 
 In the project directory, you can run:
 
